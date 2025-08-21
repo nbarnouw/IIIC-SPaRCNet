@@ -1,0 +1,52 @@
+coin_run_id,Abbreviation,HoursRunDetail,Sex,Races,SupportType,Discontinuation,DischargedAlive,TimeOffToDCDateHours,img_fii,focal_bg_slowing,focalsz_se,gensz_se,focal_eds,gen_eds,age,sex_fem,ni_ais,ni_ich,ni_none,TimeOnECLS,TimeOffECLS,exam_chg,exam_chg_t,img_first_injury_t,coin_cr_chg_t1,cc1_type,coin_cr_chg_t2,cc2_type,fii_lat,fii_type,ni_hii,RCCA_logic,Fem_logic,Ao_logic,HUS,CT,MRI,EEG_while_fii
+1,VA,21,Male,Asian,Cardiac,Died or Poor Prognosis,No,0,1,0,0,0,0,0,0.356164384,0,0,1,0,11/14/21 23:10,11/15/21 20:45,no clinical change. imaging based clinical suspicion,11/15/21 15:49,11/15/21 15:49,NaT,NaN,NaT,NaN,R,SDH,0,1,0,0,1,0,0,1
+2,VA,39,Female,White,Cardiac,Died or Poor Prognosis,No,0,1,1,0,0,0,0,6.44109589,1,1,0,0,1/10/21 23:36,1/12/21 14:08,no clinical change EEG asymmetry (L>R slowing) communicated to CICU team,1/11/21 16:00,1/11/21 18:16,1/11/21 13:46,2,NaT,NaN,L,AIS,0,0,0,1,0,1,0,1
+3,VA,47,Male,Hispanic,ECPR,Died or Poor Prognosis,No,0,1,1,1,0,0,0,2.271232877,0,1,0,0,8/16/20 17:00,8/18/20 16:30,"blown pupil noted on AM of 8/17 - first noted asymmetry per notes at 6:31, on recheck at 7:56 R pupil blown, ",8/17/20 6:31,8/17/20 10:32,NaT,NaN,NaT,NaN,R,Watershed,0,1,0,0,0,1,0,1
+4,VA,99,Male,Asian,Pulmonary,Expected Recovery,Yes,1895,1,1,1,0,0,0,0.438356164,0,1,0,1,9/30/21 7:19,10/4/21 10:24,"focal seizures developed starting 9/30 at 2018 but no clinical correlate, CICU team notified ~2145, notes from 10/1 mention possible RUE weakness but hard to say when started 2/2 vec boluses",9/30/21 21:45,10/7/21 18:45,10/2/21 0:41,1,10/3/21 18:00,1,L,AIS,0,1,0,0,1,0,1,1
+5,VA,375,Female,White,ECPR,VAD,No,,0,0,0,0,0,0,5.506849315,1,0,1,1,2/4/20 18:06,2/20/20 9:00,,NaT,2/20/20 7:44,NaT,NaN,NaT,NaN,,,0,0,0,1,0,1,0,0
+6,VA,50,Male,White,Cardiac,Expected Recovery,Yes,1728,1,1,1,0,0,0,0.430136986,0,1,0,1,5/2/15 22:30,5/5/15 0:00,"RUE and RLE weakness, focal seizures with status epilepticus",5/5/15 5:13,5/9/15 8:55,NaT,NaN,NaT,NaN,L,AIS,0,0,0,1,NaN,NaN,NaN,0
+7,VA,643,Female,Hispanic,ECPR,Expected Recovery,Yes,,0,0,1,0,0,0,15.1369863,1,0,0,1,5/19/16 0:00,6/14/16 19:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,1,0,NaN,NaN,NaN,0
+8,VV,118,Male,Hispanic,Pulmonary,Expected Recovery,Yes,1102,0,1,0,0,0,0,1.120547945,0,0,0,0,4/2/17 16:00,4/7/17 14:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,1,0,0,0,NaN,NaN,NaN,0
+9,VA,1173,Male,Hispanic,Cardiac,Died or Poor Prognosis,No,0,1,1,0,0,1,0,3.189041096,0,0,1,0,10/20/20 6:45,12/8/20 3:04,Left pupil nonreactive,12/6/20 20:15,12/6/20 22:48,NaT,NaN,NaT,NaN,L,SDH,0,0,0,1,0,1,0,0
+10,VA,213,Male,Hispanic,ECPR,Expected Recovery,Yes,1487,1,1,1,0,1,0,0.060273973,0,1,0,1,9/4/17 16:00,9/13/17 13:30,"clinical seizure, L eye deviation 1 minute",9/6/17 12:00,9/8/17 10:06,NaT,NaN,NaT,NaN,R,AIS,0,0,0,1,NaN,NaN,NaN,1
+11,VA,155,Male,White,ECPR,Expected Recovery,Yes,1007,0,0,1,0,0,0,0.232876712,0,0,0,1,10/13/17 2:45,10/19/17 13:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,1,1,0,0,NaN,NaN,NaN,0
+12,VA,214,Female,Black,Cardiac,Died or Poor Prognosis,No,,1,1,1,0,0,0,0.019178082,1,0,1,0,12/8/17 20:30,12/17/17 18:00,clinical seizure,12/9/17 19:00,12/15/17 8:47,NaT,NaN,NaT,NaN,R,IPH/IVH,0,0,0,1,NaN,NaN,NaN,0
+13,VA,108,Male,Black,ECPR,Expected Recovery,No,3579,0,0,0,0,0,0,0.043835616,0,0,0,1,12/28/17 3:30,1/1/18 15:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,1,NaN,NaN,NaN,0
+14,VA,727,Female,White,ECPR,Died or Poor Prognosis,No,0,1,1,1,0,1,0,0.353424658,1,1,0,0,1/6/18 2:30,2/5/18 9:00,clinical seizure,1/9/18 20:00,2/2/18 14:29,1/9/18 13:00,1,NaT,NaN,L,AIS,0,0,0,1,1,1,0,1
+15,VA,79,Male,Hispanic,ECPR,Expected Recovery,Yes,1103,1,1,1,0,0,0,0.443835616,0,1,0,1,2/22/18 11:45,2/25/18 18:30,R focal voltage attenuation noted at first EEG read,2/23/18 8:00,2/28/18 9:09,2/25/18 14:34,3,NaT,NaN,R,AIS,1,1,0,0,1,0,1,1
+16,VV,437,Female,White,Pulmonary,Expected Recovery,Yes,1874,0,1,0,0,0,0,1.191780822,1,0,0,1,2/22/18 7:00,3/12/18 12:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,0,1,0,0,0
+17,VV,295,Female,Asian,Pulmonary,Expected Recovery,Yes,1773,0,1,0,0,0,0,11.43287671,1,0,1,0,3/1/18 12:33,3/13/18 19:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,0,0,1,1,0
+18,VA,156,Female,Hispanic,ECPR,Expected Recovery,Yes,376,0,0,0,0,0,0,10.10958904,1,0,0,0,4/25/18 8:00,5/1/18 20:09,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,0,0,1,0
+19,VA,1063,Male,Hispanic,Cardiac,Died or Poor Prognosis,No,0,1,1,0,0,0,0,10.14520548,0,0,1,0,8/21/18 13:00,10/4/18 20:45,Lack of motor response while lifting sedation,9/19/18 7:00,9/20/18 12:14,8/30/18 18:12,NaN,10/1/18 10:33,NaN,L,SDH,1,0,0,1,0,1,0,0
+20,VA,45,Female,White,ECPR,Expected Recovery,Yes,505,1,0,1,0,1,0,0.216438356,1,1,0,1,9/12/18 15:00,9/14/18 12:00,subclinical seizures on EEG,9/14/18 6:50,9/18/18 17:52,NaT,NaN,NaT,NaN,L,AIS,1,1,0,0,1,0,1,1
+21,VA,101,Female,Black,ECPR,Expected Recovery,Yes,1099,0,0,1,0,1,0,0.564383562,1,0,0,1,10/31/18 11:04,11/4/18 16:45,,NaT,NaT,NaT,NaN,NaT,NaN,,,1,0,0,1,1,0,1,0
+22,VA,58,Male,Hispanic,ECPR,Died or Poor Prognosis,No,0,0,1,0,0,0,0,7.068493151,0,0,0,0,11/30/18 2:15,12/2/18 12:00,,NaT,11/30/18 10:57,NaT,NaN,NaT,NaN,,,0,1,0,0,0,1,0,0
+23,VA,48,Male,White,ECPR,Died or Poor Prognosis,No,0,0,0,1,0,0,0,0.101369863,0,0,0,1,12/20/18 10:42,12/22/18 10:42,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,NaN,NaN,NaN,0
+24,VA,525,Female,Asian,Cardiac,Died or Poor Prognosis,No,0,1,0,1,0,1,0,0.087671233,1,1,0,0,2/15/22 17:44,3/9/22 14:04,subclinical seizures on EEG,2/17/22 13:22,3/5/22 18:14,2/23/22 13:40,NaN,3/8/22 18:00,NaN,R,AIS,1,1,0,0,1,1,0,1
+25,VA,97,Male,Hispanic,ECPR,Died or Poor Prognosis,No,194,1,0,1,0,0,0,3.931506849,0,1,0,0,5/2/19 17:10,5/6/19 18:06,"R EEG attenuation during bridge trial, no clinical change",5/7/19 8:00,5/7/19 21:06,5/6/19 15:00,3,NaT,NaN,R,AIS,1,1,0,0,0,1,0,1
+26,VA,99,Male,White,Cardiac,Died or Poor Prognosis,No,0,1,1,1,0,0,0,0.320547945,0,0,1,0,7/1/21 16:39,7/5/21 19:00,Fixed and Dilated R pupil,7/5/21 10:00,7/5/21 11:10,NaT,NaN,NaT,NaN,R,IPH/IVH,0,0,0,1,1,1,0,1
+27,VA,189,Male,Hispanic,ECPR,Died or Poor Prognosis,No,0,1,0,0,0,0,0,0.490410959,0,0,1,0,5/15/20 5:00,5/23/20 2:00,Right Pupil Unreactive,5/22/20 14:30,5/22/20 13:17,NaT,NaN,NaT,NaN,R,IPH/IVH,0,1,0,0,1,1,0,0
+28,VA,458,Female,Hispanic,Cardiac,Died or Poor Prognosis,No,46,1,1,1,0,1,0,0.167123288,1,0,1,0,11/24/21 13:25,12/13/21 15:15,Incidental Finding on Routine Imaging,12/10/21 13:10,12/10/21 13:10,12/9/21 11:00,1,11/28/21 14:00,1,R,SDH,0,1,0,0,1,0,0,0
+29,VA,114,Male,White,Pulmonary,Expected Recovery,Yes,962,1,1,0,0,0,0,8.030136986,0,1,0,0,12/25/23 17:18,12/30/23 11:12,EEG focal slowing on Left,12/26/23 17:00,12/27/23 11:12,NaT,NaN,NaT,NaN,R,AIS,0,1,0,0,0,1,1,1
+30,VA,19,Female,Hispanic,Pulmonary,Expected Recovery,Yes,664,1,0,1,0,1,0,0.010958904,1,0,1,0,12/28/21 1:30,12/28/21 20:08,Incidental CT finding,12/28/21 12:52,12/28/21 12:52,NaT,NaN,NaT,NaN,L,IPH/IVH,0,1,0,0,NaN,NaN,NaN,1
+31,VA,220,Male,Unknown,Cardiac,Expected Recovery,Yes,770,0,0,0,0,0,0,0.005479452,0,0,1,1,12/21/22 8:10,12/30/22 12:05,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,NaN,NaN,NaN,0
+32,VA,91,Male,White,ECPR,Expected Recovery,Yes,414,1,0,0,0,1,0,10.86849315,0,0,1,0,1/10/24 17:28,1/14/24 12:55,,NaT,1/24/24 12:22,NaT,NaN,NaT,NaN,R,IPH/IVH,0,0,1,0,NaN,NaN,NaN,0
+33,VA,471,Female,Middle Eastern or North African,Pulmonary,Expected Recovery,Yes,5343,1,1,1,0,0,0,0.328767123,1,1,0,0,5/7/23 5:08,5/26/23 20:00,EEG: Left focal status epilepticus ,5/11/23 22:29,5/16/23 9:26,5/11/23 8:01,1,NaT,NaN,L,AIS,0,1,0,0,1,0,0,1
+34,VA,188,Male,White,Cardiac,Expected Recovery,Yes,1369,0,0,0,0,0,0,0.591780822,0,0,0,1,11/5/17 19:30,11/13/17 15:00,,NaT,NaT,11/13/17 14:28,3,NaT,NaN,,,0,1,0,0,NaN,NaN,NaN,0
+35,VA,157,Female,Black,ECPR,VAD,Yes,3361,0,1,0,0,0,0,1.726027397,1,0,1,1,3/15/19 20:30,3/22/19 9:00,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,0,1,0,0
+36,VA,55,Male,White,ECPR,Expected Recovery,Yes,691,0,0,1,0,0,0,0.298630137,0,0,1,1,4/17/19 10:45,4/19/19 17:00,Bioccipital seizures,4/19/19 5:00,4/18/19 15:50,NaT,NaN,NaT,NaN,,,0,1,0,0,0,1,0,1
+37,VA,122,Male,White,ECPR,Expected Recovery,Yes,1224,0,0,0,0,1,0,0.249315068,0,0,0,1,5/1/19 12:00,5/6/19 14:08,,NaT,NaT,5/3/19 18:00,1,NaT,NaN,,,0,0,0,1,1,0,0,0
+38,VA,88,Female,Hispanic,ECPR,Expected Recovery,Yes,3891,0,0,0,0,0,0,0.309589041,1,0,0,1,8/15/19 19:30,8/19/19 11:27,,NaT,9/4/19 15:48,8/19/19 10:00,3,NaT,NaN,,,1,1,0,0,1,0,1,0
+39,VA,425,Female,Asian,Cardiac,Expected Recovery,Yes,1706,0,0,0,0,0,0,0.405479452,1,0,0,1,2/14/20 20:00,3/3/20 13:15,,NaT,NaT,3/1/20 15:00,NaN,NaT,NaN,,,0,1,0,0,1,0,0,0
+40,VA,80,Male,Middle Eastern or North African,ECPR,Died or Poor Prognosis,No,0,0,0,0,0,0,0,2.402739726,0,0,0,0,5/4/20 4:40,5/7/20 12:13,bilateral unreactive pupils,5/6/20 17:52,NaT,NaT,NaN,NaT,NaN,,,1,1,0,0,0,1,0,1
+41,VA,246,Male,Hispanic,Cardiac,VAD,No,1042,0,1,0,0,0,0,15.16164384,0,0,0,1,7/20/20 1:00,8/3/20 16:00,,NaT,NaT,9/14/20 6:46,1,NaT,NaN,,,0,0,0,1,0,0,0,0
+42,VA,91,Male,Middle Eastern or North African,ECPR,Expected Recovery,Yes,1561,0,1,0,0,1,0,0.035616438,0,0,0,1,6/7/23 17:00,6/11/23 12:04,Left focal slowing,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,1,NaN,NaN,NaN,0
+43,VA,76,Male,Black,Cardiac,Expected Recovery,Yes,265,0,0,0,0,0,0,0.312328767,0,0,0,1,2/13/23 11:51,2/16/23 15:50,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,1,0,0,0
+44,VA,78,Female,Middle Eastern or North African,Cardiac,Expected Recovery,Yes,235,0,1,0,0,0,0,0.123287671,1,0,0,1,7/24/22 12:47,7/27/22 18:00,L EEG slowing / attneuation,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,1,0,1,0
+45,VA,749,Male,Unknown,Cardiac,Expected Recovery,No,1826,0,1,0,0,0,0,4.956164384,0,0,1,1,7/6/22 9:51,8/6/22 14:09,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,0,0,1,0,0
+46,VV,64,Male,Asian,Pulmonary,Expected Recovery,Yes,604,0,0,0,0,1,0,0.189041096,0,0,0,1,6/17/22 1:53,6/19/22 17:06,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,0,1,0,1,0
+47,VA,45,Male,,ECPR,Died or Poor Prognosis,No,1,0,0,0,0,0,0,0.304109589,0,0,0,1,2/7/22 15:39,2/9/22 12:50,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,1,0,0,0
+48,VV,551,Male,White,Pulmonary,Died or Poor Prognosis,No,0,0,0,0,0,0,0,5.063013699,0,0,0,1,12/11/21 18:18,1/3/22 17:49,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,0,0,0,0,1,0,0
+49,VA,46,Male,Hispanic,ECPR,Died or Poor Prognosis,No,0,0,0,1,0,0,0,0.183561644,0,0,0,1,11/26/21 23:55,11/28/21 21:20,,NaT,NaT,NaT,NaN,NaT,NaN,,,0,1,0,0,1,0,0,0
+50,VA,272,Female,Unknown,ECPR,Expected Recovery,Yes,1535,1,1,0,0,0,0,0.745205479,1,0,1,1,9/5/21 8:41,9/16/21 16:00,Right focal EEG slowing,9/6/21 7:00,10/8/21 1:46,NaT,NaN,NaT,NaN,R,SDH,0,1,0,0,1,0,1,1
+901,VV,10,Female,White,Pulmonary,Died or Poor Prognosis,No,,1,0,0,0,0,0,4.161643836,1,0,1,0,5/31/15 21:00,6/1/15 7:30,R pupil dilated and nonreactive,6/1/15 1:30,6/1/15 5:22,NaT,NaN,NaT,NaN,R,IPH/IVH,0,0,0,0,NaN,NaN,NaN,0
